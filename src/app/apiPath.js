@@ -1,0 +1,18 @@
+export const apiPath = {
+  BANNERS: "/api/QuanLyPhim/LayDanhSachBanner",
+  MOVIES: "/api/QuanLyPhim/LayDanhSachPhimPhanTrang",
+  CINEMAS_SCHEDULE: "/api/QuanLyRap/LayThongTinLichChieuHeThongRap",
+  INFO_SCHEDULES: "/api/QuanLyRap/LayThongTinLichChieuPhim",
+  USER_LOGIN: "/api/QuanLyNguoiDung/DangNhap",
+  BOOKING_TICKET: "/api/QuanLyDatVe/LayDanhSachPhongVe",
+  DAT_VE: "/api/QuanLyDatVe/DatVe",
+  THONG_TIN_NGUOI_DUNG: "/api/QuanLyNguoiDung/ThongTinTaiKhoan",
+  THEM_PHIM_UPLOAD_HINH: "/api/QuanLyPhim/ThemPhimUploadHinh",
+  LAY_THONG_TIN_PHIM: "/api/QuanLyPhim/LayThongTinPhim",
+  CAP_NHAT_PHIM: "/api/QuanLyPhim/CapNhatPhimUpload",
+  XOA_PHIM: "/api/QuanLyPhim/XoaPhim",
+  LAY_DANH_SACH_PHIM: "/api/QuanLyPhim/LayDanhSachPhim",
+  LAY_HE_THONG_RAP: "/api/QuanLyRap/LayThongTinHeThongRap",
+  LAY_CUM_RAP: "/api/QuanLyRap/LayThongTinCumRapTheoHeThong",
+  TAO_LICH_CHIEU: "/api/QuanLyDatVe/TaoLichChieu",
+};
